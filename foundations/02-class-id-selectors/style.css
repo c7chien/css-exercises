@@ -1,0 +1,17 @@
+.odd{
+    background-color: rgb(255,170,170);
+}
+.odd.cooler{
+    font-size: 30px;
+}
+#one{
+    font-size: 42px;
+    color: rgb(50,50,250);
+    font-family: Sans-serif;
+}
+#another{
+    background-color: #33FF57;
+    font-weight: bold;
+    font-size: 27px;
+    font-family: sans-serif;
+}
